@@ -1,7 +1,7 @@
 # Places API
 
 ```
-BASE URL: https://places-api-v1-mern.herokuapp.com/api/places
+BASE URL: https://places-api-v1.herokuapp.com/api/places
 ```
 This is a simple API for registering places and landmarks. 
 
